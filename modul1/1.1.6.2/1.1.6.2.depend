@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513477793 source:/home/sergey/CAdvLabs/modul1/1.1.6.2/main.cpp
+	<vector>
+	<iostream>
+
