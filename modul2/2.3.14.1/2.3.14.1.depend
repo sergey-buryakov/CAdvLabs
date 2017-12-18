@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513555467 source:/home/sergey/pactAdv/modul2/2.3.14.1/main.cpp
+	<iostream>
+	<map>
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513554513 source:/home/sergey/CAdvLabs/modul2/2.3.8.1/main.cpp
+	<iostream>
+	<map>
+	<string>
+
+1513554513 source:/home/sergey/pactAdv/modul2/2.3.8.1/main.cpp
+	<iostream>
+	<map>
+	<string>
+
